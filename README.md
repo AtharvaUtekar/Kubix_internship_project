@@ -1,9 +1,9 @@
 # Kubix_internship_project
 ### Front end Team 5
 ### Team Members:
-- Member 1 <br />
-- Member 2 <br />
-- Member 3 <br />
+- Hussain Shaikh <br />
+- Janice Monteiro <br />
+- Yasti Jain <br />
 - Atharva Utekar
 
 <hr/>
