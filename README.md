@@ -3,9 +3,9 @@
 <hr/>
 
 ### Team Members:
-- Hussain Shaikh <br />
 - Janice Monteiro <br />
 - Yasti Jain <br />
+- Hussain Shaikh <br />
 - Atharva Utekar
 
 <hr/>
