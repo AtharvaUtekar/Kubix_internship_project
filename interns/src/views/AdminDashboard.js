@@ -5,6 +5,9 @@ import { Container, Row, Col } from "shards-react";
 import PageTitle from "./../components/common/PageTitle";
 import SmallStats from "./../components/dashboard/SmallStats";
 
+import UsersOverview from "./../components/dashboard/UsersOverview";
+import UsersByDevice from "./../components/dashboard/UsersByDevice";
+
 const BlogOverview = ({ smallStats }) => (
   <Container fluid className="main-content-container px-4">
     {/* Page Header */}
@@ -29,6 +32,19 @@ const BlogOverview = ({ smallStats }) => (
           />
         </Col>
       ))}
+    </Row>
+
+<Row>
+       {/* Internships */}
+       <Col lg="4" md="6" sm="12" className="mb-4">
+        <UsersByDevice />
+      </Col>
+
+      {/* Monthly interns */}
+      <Col lg="8" md="12" sm="12" className="mb-4">
+        <UsersOverview />
+      </Col>
+
     </Row>
 
   </Container>
