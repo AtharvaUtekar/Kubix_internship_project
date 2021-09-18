@@ -58,7 +58,7 @@ Your app is ready to be deployed!
 
 
 ### Team Members:  
-- Yasti Jain ([Github]() ,[LinkedIn]())
+- Yasti Jain ([Github]() ,[LinkedIn](https://www.linkedin.com/in/yasti-jain-56711020b))
 - Hussain Shaikh ([Github](https://github.com/hussainshaikh12) ,[LinkedIn]( https://www.linkedin.com/in/hussainshk))
 - Atharva Utekar ([Github](https://github.com/AtharvaUtekar) ,[LinkedIn]( https://www.linkedin.com/in/atharva-utekar/))
 - Janice Monteiro ([Github](https://github.com/janice-monteiro) ,[LinkedIn](https://www.linkedin.com/in/janice-monteiro-6b9875217/ ))
