@@ -13,7 +13,19 @@ get info regarding the program as well. It will be a subdomain for KubixSquare.c
 theme should be matching the parent website. Students should find it interactive and 
 display should be concise.*
 
-*The Admin Dashboard will display the details about all internships.*
+There are two different React apps used for the completion of the task
+> *Main - Internship catalogue : This is the client-side web page that enables the candidate to choose an internships and submit application for the same.*
+> <br/>
+> *Interns - This is a dashboard created for the admin for viewing the metrics of candidates.*
+
+*1. The Main catalogue website will display all the available internships to the client-side i.e.candidates*
+
+*The site has a search by which the candidates can choose the desired internship. But ass this is a frnt end project the values are hard coded and some functionalities are compromised. Loreum Ipsum is used to fill the content.*
+
+*Further on clicking "apply now", the candidate can view more details about the internship and get access to a form that the candidate can fill to submit thier application.*
+
+
+*2. The Admin Dashboard will display the details about all internships.*
 
 *Small Stats: These are 3 small charts displayed at top in the admin dashboard. They display numeric information regarding the total interns, internships and applications for the internships. Being concise they give a lot of useful information regarding to the admin.*
 
@@ -32,14 +44,14 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 In the project directory, you can run:
 
-#### Installation
+### STEP 1: Installation 
 
-1.  `cd Kubix_internship_project\interns` to go into the project root.
-1.  `yarn` to install the website's workspace dependencies.
+1.  `cd Kubix_internship_project\interns` or `cd Kubix_internship_project\Main - Internships catalogue page` to go into the project root.
+1.  `yarn install` to install the website's workspace dependencies.
 
-#### Running locally
+### STEP 2: Running locally
 
-1.  `yarn start` to start the development server.
+1.  `yarn run start` to start the development server.
 1.  `open http://localhost:3000/` to view it in the browser. The page will reload if you make edits. You will also see any lint errors in the console.
 
 ### `yarn test`
