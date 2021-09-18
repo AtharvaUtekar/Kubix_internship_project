@@ -3,6 +3,14 @@
 ---
 ## Front end Team 5
 
+[Click here for Live site 1 - All Internship platform ](https://kubixquare-1.herokuapp.com/)
+<br/>
+[Click here for Live site 2 - Admin panel ](https://kubixquare-2.herokuapp.com/)
+
+Main internship catalogue Live site: https://kubixquare-1.herokuapp.com/
+<br/>
+Admin dashboard Live site: https://kubixquare-2.herokuapp.com/
+
 ### Technologies used: 
 - **React** 
 - **Material UI**
