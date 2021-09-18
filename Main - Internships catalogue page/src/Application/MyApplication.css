@@ -1,0 +1,22 @@
+
+.FirstBlock{
+    margin: 1rem;
+    padding: 20px;
+}
+.FirstCard{
+    padding: 2rem;
+}
+.mb-3{
+    padding:2px;
+    margin: 10px;
+}
+.textarea{
+    padding:2px;
+}
+.submit_button{
+    align-items: center;
+    margin-left: 40%;
+}
+.SecondCard{
+    padding:2rem;
+}

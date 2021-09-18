@@ -1,0 +1,92 @@
+
+.cards{
+  margin: 1rem auto;
+  width: 90%;
+  padding: 10px;
+}
+.filtercard{
+  margin-bottom: 3rem;
+  border-radius: 15px;
+}
+.searchbar{
+  display: inline;
+}
+.searchicon{
+  float: right;
+  width: 2rem;
+  height: 2rem;
+  padding:2px;
+}
+.searchfield{
+  margin: 10px;
+
+}
+.searchiconbar{
+  margin: 10px;
+  display: inline;
+  float: right;
+}
+.company_logos{
+  display: inline;
+  margin-left: auto;
+  float: right;
+  height: 5rem;
+  width: 8rem;
+}
+.Company_name{
+  color: grey;
+}
+
+.internship_cards{
+  box-shadow: 7px 9px 12px -4px rgba(0,0,0,0.75);
+  -webkit-box-shadow: 7px 9px 12px -4px rgba(0,0,0,0.75);
+  -moz-box-shadow: 7px 9px 12px -4px rgba(0,0,0,0.75);
+}
+
+.apply_button {
+  border-radius: 10px;
+  border: none;
+  font-size: px;
+  color: #0c49bbde;
+  text-align: center;
+  height: 2.5rem;
+  width: 9rem;
+  padding: 5px;
+  transition: all 0.3s;
+  cursor: pointer;
+  margin: 5px;
+}
+
+
+.apply_button:hover{
+  background-image: linear-gradient(to right, #0c42a2, #0e419b, #104095, #133e8e, #153d87);
+  color: azure;
+}
+
+.apply_button span {
+  cursor: pointer;
+  display: inline-block;
+  position: relative;
+  transition: 0.2s;
+  
+}
+
+.apply_button span:after {
+  content: '\279C';
+  position: absolute;
+  opacity: 0;
+  top: 0;
+  right: -20px;
+  transition: 0.2s;
+}
+
+.apply_button:hover span {
+  padding-right: 20px;
+
+}
+
+.apply_button:hover span:after {
+  opacity: 1;
+  right: 0;
+}
+

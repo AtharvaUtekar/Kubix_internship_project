@@ -1,0 +1,10 @@
+.Logo{
+    height: 45px;
+    width: 180px;
+    position: absolute;
+    top: 1.25rem; left: 5rem;
+}
+.Nav_link{
+    background-color: #106ddd;
+    border: transparent;
+}
