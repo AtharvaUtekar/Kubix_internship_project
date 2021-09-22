@@ -7,14 +7,15 @@
 <br/>
 [Click here for Live site 2 - Admin panel ](https://kubixquare-2.herokuapp.com/)
 
-_The live sites are linked but in case the build log fails, please try refreshing the page. The site preview video is also attached below._
+##### The live sites are linked but in case the build log fails, please try refreshing the page. The site preview video is also attached below.
 
 Main internship catalogue Live site: https://kubixquare-1.herokuapp.com/
 <br/>
 Admin dashboard Live site: https://kubixquare-2.herokuapp.com/
 
 ### Technologies used: 
-- **React** 
+- **ReactJS** 
+- **Bootstrap**
 - **Material UI**
 
 ### Problem Statement:
@@ -28,22 +29,22 @@ There are two different React apps used for the completion of the task
 > <br/>
 > *Interns - This is a dashboard created for the admin for viewing the metrics of candidates.*
 
-*1. The Main catalogue website will display all the available internships to the client-side i.e.candidates*
+#### 1. The Main catalogue website will display all the available internships to the client-side i.e. to the candidates
 
-*The site has a search by which the candidates can choose the desired internship. But ass this is a frnt end project the values are hard coded and some functionalities are compromised. Loreum Ipsum is used to fill the content.*
+The site has a search by which the candidates can choose the desired internship. But ass this is a frnt end project the values are hard coded and some functionalities are compromised. Loreum Ipsum is used to fill the content.
 
-*Further on clicking "apply now", the candidate can view more details about the internship and get access to a form that the candidate can fill to submit thier application.*
+Further on clicking "apply now", the candidate can view more details about the internship and get access to a form that the candidate can fill to submit thier application.
 
 
-*2. The Admin Dashboard will display the details about all internships.*
+#### 2. The Admin Dashboard will display the details about all internships.
 
-*Small Stats: These are 3 small charts displayed at top in the admin dashboard. They display numeric information regarding the total interns, internships and applications for the internships. Being concise they give a lot of useful information regarding to the admin.*
+Small Stats: These are 3 small charts displayed at top in the admin dashboard. They display numeric information regarding the total interns, internships and applications for the internships. Being concise they give a lot of useful information regarding to the admin.
 
-*Internships:
-This chart displays a pie chart that shows which internships are the most popular among the interns who have applied.*
+Internships:
+This chart displays a pie chart that shows which internships are the most popular among the interns who have applied.
 
-*Monthly interns
-This chart gives the monthly interns rate and gives comparison with the previous month. This gives admin the clear view of the flux of interns.*
+Monthly interns:
+This chart gives the monthly interns rate and gives comparison with the previous month. This gives admin the clear view of the flux of interns.
 
 ### Setup:
 #### Getting Started with Create React App
