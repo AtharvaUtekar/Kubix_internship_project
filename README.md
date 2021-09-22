@@ -7,6 +7,7 @@
 <br/>
 [Click here for Live site 2 - Admin panel ](https://kubixquare-2.herokuapp.com/)
 
+#The live sites are linked but in case the build log fails, please try refreshing the page. The site preview video is also attached below.
 Main internship catalogue Live site: https://kubixquare-1.herokuapp.com/
 <br/>
 Admin dashboard Live site: https://kubixquare-2.herokuapp.com/
@@ -82,6 +83,8 @@ Your app is ready to be deployed!
 - Hussain Shaikh ([Github](https://github.com/hussainshaikh12) ,[LinkedIn]( https://www.linkedin.com/in/hussainshk))
 - Atharva Utekar ([Github](https://github.com/AtharvaUtekar) ,[LinkedIn]( https://www.linkedin.com/in/atharva-utekar/))
 - Janice Monteiro ([Github](https://github.com/janice-monteiro) ,[LinkedIn](https://www.linkedin.com/in/janice-monteiro-6b9875217/ ))
+
+
 
 
 
