@@ -7,7 +7,8 @@
 <br/>
 [Click here for Live site 2 - Admin panel ](https://kubixquare-2.herokuapp.com/)
 
-#The live sites are linked but in case the build log fails, please try refreshing the page. The site preview video is also attached below.
+_The live sites are linked but in case the build log fails, please try refreshing the page. The site preview video is also attached below._
+
 Main internship catalogue Live site: https://kubixquare-1.herokuapp.com/
 <br/>
 Admin dashboard Live site: https://kubixquare-2.herokuapp.com/
