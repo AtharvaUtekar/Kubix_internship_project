@@ -81,9 +81,9 @@ Your app is ready to be deployed!
 
 
 ### Team Members:  
+- (Team Lead) Atharva Utekar ([Github](https://github.com/AtharvaUtekar) ,[LinkedIn]( https://www.linkedin.com/in/atharva-utekar/))
 - Yasti Jain ([Github](https://github.com/Yastii) ,[LinkedIn](https://www.linkedin.com/in/yasti-jain-56711020b))
 - Hussain Shaikh ([Github](https://github.com/hussainshaikh12) ,[LinkedIn]( https://www.linkedin.com/in/hussainshk))
-- Atharva Utekar ([Github](https://github.com/AtharvaUtekar) ,[LinkedIn]( https://www.linkedin.com/in/atharva-utekar/))
 - Janice Monteiro ([Github](https://github.com/janice-monteiro) ,[LinkedIn](https://www.linkedin.com/in/janice-monteiro-6b9875217/ ))
 
 <hr/>
